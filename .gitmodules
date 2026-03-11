@@ -1,0 +1,3 @@
+[submodule "initial-benchmarks/STREAM"]
+	path = initial-benchmarks/STREAM
+	url = https://github.com/jeffhammond/STREAM
